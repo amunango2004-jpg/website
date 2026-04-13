@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.antigravity"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ANSELM WDD 130"
+	}
+}
